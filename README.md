@@ -1,0 +1,1 @@
+<p>write Ajax for set forecasts</p>
